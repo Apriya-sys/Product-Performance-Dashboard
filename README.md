@@ -23,5 +23,24 @@ Two charts visualize:
 2.Units Sold Over Time
 3.A sidebar filter lets you focus on one product at a time.
 4.Interactive dashboards built with Streamlit
-5.Fast, asynchronous backend API using FastAPI
+5.Fast, asynchronousSetup Instructions
+
+Setup Instructions
+__________________________________________________________________________________________
+1.Clone the repository
+
+git clone https://github.com/yourusername/expense-management-system.git
+cd expense-management-system
+
+2.Install dependencies::
+ pip install -r requirements.txt
+ 
+3.Run the FastAPI server:
+ uvicorn server.server:app --reload
+ 
+4.Run the Streamlit app:
+ streamlit run frontend/app.py
+
+ 
+
 
