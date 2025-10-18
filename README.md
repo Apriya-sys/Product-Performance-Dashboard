@@ -29,7 +29,7 @@ Setup Instructions
 __________________________________________________________________________________________
 1.Clone the repository
 
-https://github.com/Apriya-sys/Product-Performance-Dashboard.git
+    https://github.com/Apriya-sys/Product-Performance-Dashboard.git
 
     cd expense-management-system
 
