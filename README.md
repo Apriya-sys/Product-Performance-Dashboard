@@ -34,13 +34,16 @@ https://github.com/Apriya-sys/Product-Performance-Dashboard.git
     cd expense-management-system
 
 2.Install dependencies::
- pip install -r requirements.txt
+
+    pip install -r requirements.txt
  
 3.Run the FastAPI server:
- uvicorn server.server:app --reload
+
+     uvicorn server.server:app --reload
  
 4.Run the Streamlit app:
- streamlit run frontend/app.py
+
+     streamlit run frontend/app.py
 
  
 
