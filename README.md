@@ -30,7 +30,8 @@ ________________________________________________________________________________
 1.Clone the repository
 
 https://github.com/Apriya-sys/Product-Performance-Dashboard.git
-cd expense-management-system
+
+    cd expense-management-system
 
 2.Install dependencies::
  pip install -r requirements.txt
