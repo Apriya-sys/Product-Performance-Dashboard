@@ -20,9 +20,13 @@ Streamlit fetches the data using the /products API.
 Two charts visualize:
 
 1.Revenue by Product
+
 2.Units Sold Over Time
+
 3.A sidebar filter lets you focus on one product at a time.
+
 4.Interactive dashboards built with Streamlit
+
 5.Fast, asynchronousSetup Instructions
 
 Setup Instructions
